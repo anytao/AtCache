@@ -13,5 +13,7 @@ namespace Anytao.Common.Caching
     /// <code>https://github.com/anytao/atcache</code>
     public interface ICache<TKey, TValue>
     {
+        // Define the cache abstractioin
+
     }
 }
